@@ -3,7 +3,7 @@
 .idea
 new_venv
 __pycache__
-venv
+venv/
 media
 
 #files
