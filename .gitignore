@@ -1,0 +1,10 @@
+#dir
+
+.idea
+new_venv
+__pycache__
+venv
+media
+
+#files
+db.sqlite3
