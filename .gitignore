@@ -2,8 +2,8 @@
 
 .idea
 new_venv
-__pycache__
-.venv
+__pycache__/
+venv/
 media
 
 #files
